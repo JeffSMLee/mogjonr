@@ -4,7 +4,5 @@
 # Dependencies
 node_modules/
 
-# Audio clips and source recordings (large / third-party media)
-clips/*
-!clips/.gitkeep
+# Source recordings (large)
 *.mp4
