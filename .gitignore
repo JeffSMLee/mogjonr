@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Audio clips and source recordings (large / third-party media)
+clips/*
+!clips/.gitkeep
+*.mp4
